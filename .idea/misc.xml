@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/activiti" />
+    <file type="web" url="file://$PROJECT_DIR$/demo" />
+    <file type="web" url="file://$PROJECT_DIR$/elastic_job" />
+    <file type="web" url="file://$PROJECT_DIR$/juc" />
+    <file type="web" url="file://$PROJECT_DIR$/logback" />
+    <file type="web" url="file://$PROJECT_DIR$/mongodb" />
+    <file type="web" url="file://$PROJECT_DIR$/mybatis_plus" />
+    <file type="web" url="file://$PROJECT_DIR$/nio" />
+    <file type="web" url="file://$PROJECT_DIR$/pagehelp" />
+    <file type="web" url="file://$PROJECT_DIR$/rocketmq" />
+    <file type="web" url="file://$PROJECT_DIR$/shiro" />
+    <file type="web" url="file://$PROJECT_DIR$/springfox" />
+    <file type="web" url="file://$PROJECT_DIR$/start" />
+    <file type="web" url="file://$PROJECT_DIR$/swagger" />
+    <file type="web" url="file://$PROJECT_DIR$/tkmybatis" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

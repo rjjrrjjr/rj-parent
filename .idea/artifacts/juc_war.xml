@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="juc:war">
+    <output-path>$PROJECT_DIR$/juc/target</output-path>
+    <root id="archive" name="juc.war">
+      <element id="artifact" artifact-name="juc:war exploded" />
+    </root>
+  </artifact>
+</component>
